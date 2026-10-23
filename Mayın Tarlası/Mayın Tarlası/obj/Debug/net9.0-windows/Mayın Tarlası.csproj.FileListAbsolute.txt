@@ -1,0 +1,50 @@
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın_Tarlası.WelcomeForm.resources
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.exe
+C:\Users\Administrator\source\repos\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.deps.json
+C:\Users\Administrator\source\repos\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.runtimeconfig.json
+C:\Users\Administrator\source\repos\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.dll
+C:\Users\Administrator\source\repos\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.pdb
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.dll
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\refint\Mayın Tarlası.dll
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.pdb
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\ref\Mayın Tarlası.dll
+C:\Users\Administrator\source\repos\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın_Tarlası.GameForm.resources
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.exe
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.deps.json
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.runtimeconfig.json
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.dll
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın_Tarlası.WelcomeForm.resources
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın_Tarlası.GameForm.resources
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.AssemblyInfoInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.AssemblyInfo.cs
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.dll
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\refint\Mayın Tarlası.dll
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.pdb
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.genruntimeconfig.cache
+C:\Users\yigit\OneDrive\Masaüstü\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\ref\Mayın Tarlası.dll
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.exe
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.deps.json
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.runtimeconfig.json
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.dll
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\bin\Debug\net9.0-windows\Mayın Tarlası.pdb
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın_Tarlası.WelcomeForm.resources
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.csproj.GenerateResource.cache
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.AssemblyInfoInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.AssemblyInfo.cs
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.csproj.CoreCompileInputs.cache
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.dll
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\refint\Mayın Tarlası.dll
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.pdb
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\Mayın Tarlası.genruntimeconfig.cache
+C:\Users\yigit\OneDrive\Masaüstü\lectures\geçildi\Görsel programlama(C#)\Mayın Tarlası\Mayın Tarlası\obj\Debug\net9.0-windows\ref\Mayın Tarlası.dll

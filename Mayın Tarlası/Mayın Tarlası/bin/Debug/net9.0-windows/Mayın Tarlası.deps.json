@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Mayın Tarlası/1.0.0": {
+        "runtime": {
+          "Mayın Tarlası.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mayın Tarlası/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
